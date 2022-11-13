@@ -1,6 +1,8 @@
-# click-clock-bitcoin API
-# This is a little daily project.
 
+# click-clock-bitcoin API
+
+- Website of project https://mahmutalimas.wixsite.com/clickclockbtc
+- This is a little daily project.
 - You can find the current value of bitcoin by using this website. 
 - FastAPI is used to create API
 - Deta is used to deploy this API
